@@ -1,0 +1,1 @@
+Now let's  inserting this text  and read and write with a stream.
